@@ -13,6 +13,6 @@ Uma calculadora de console simples que permite realizar as **quatro operações*
 - **Tabuada**: A calculadora é capaz de gerar a tabuada de um número informado.
 - **Histórico de Operações**: A calculadora é capaz de armazenar um histórico de operações
 
-## Requisitos
+## Tecnologias
 
--.NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
+[![Tecnologias](https://skillicons.dev/icons?i=git,github,cs,dotnet,visualstudio)](https://skillicons.dev)
