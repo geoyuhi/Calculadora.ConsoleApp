@@ -1,6 +1,6 @@
 # Calculadora
 
-![](https://imgur.com/0vlQHAk)
+![](https://imgur.com/0vlQHAk.gif)
 
 ## Introdução
 
