@@ -1,5 +1,7 @@
 # Calculadora
 
+1[](https://imgur.com/a/m3hi51H)
+
 ## Introdução
 
 Uma calculadora de console simples que permite realizar as **quatro operações**, além de visualizar a **tabuada** e o **histórico de operações**.
