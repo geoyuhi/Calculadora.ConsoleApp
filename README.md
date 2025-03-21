@@ -1,6 +1,6 @@
 # Calculadora
 
-![]([https://imgur.com/a/m3hi51H](https://imgur.com/a/calculadora-m3hi51H))
+![](https://imgur.com/gallery/calculadora-m3hi51H)
 
 ## Introdução
 
